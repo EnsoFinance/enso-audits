@@ -41,7 +41,7 @@ See [full report](./reports/chainsecurity/ChainSecurity_Enso_Enso-Weiroll_audit.
 
 See [full report](./reports/abdk/ABDK_Enso_Enso_Weiroll_v_1_0.pdf) for more details.
 
-## 08-2022 MixBytes Audit: Weiroll -> awaiting formal report on this
+## 08-2022 MixBytes Audit: Weiroll
 
 - Total Issues: 4 (4 Fixed)
 - Critical Issues: 0
